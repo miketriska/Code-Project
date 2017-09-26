@@ -1,8 +1,12 @@
 # Code-Project
 Uploading, accessing and downloading cloud objects
-The purpose of this repository is to: 
+
+# The purpose of this repository is to: 
+
 Provide access to the location of shared objects
+
 Provide sample code for accessing these objects
+
 Provide the contents of the JSON object being used as a sample
 
 For the purposes of transparency, the original source .txt file is provided
@@ -11,11 +15,11 @@ For the purpose of demonstrating JSON objects, the orginal source file was compl
 
 For the purpose of demonstrating what the entire output of the curl read command is, the curltest.out file is provided
 
-# The REST Endpoint for the file is:
+# The Public REST Endpoint for the file is:
 
 https://storage.googleapis.com/mike-triska-bucket/Michael_Triska_Resume_August2017.txt
 
-# The REST Endpoint for the JSON object is:
+# The Public REST Endpoint for the JSON object is:
 
 https://storage.googleapis.com/mike-triska-bucket/triska-resume.json
 
