@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Michael J. Triska",
+    "label": "Systems Architect",
+    "picture": "",
+    "email": "mike.triska@gmail.com",
+    "phone": "(408) 483-5857",
+    "website": "",
+    "summary": "Obtain a challenging position as a Core Systems Engineer, where my experience with helping large companies overcome technology challenges and create efficient environments that can be used to stabilize, streamline and increase productivity while reducing long term expenditures.",
+    "location": {
+      "address": "1527 Bordelais Drive",
+      "postalCode": "95118",
+      "city": "San Jose",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Oracle Corporation",
+      "position": "Master Principal Sales Engineer, Storage Solution Architect (IC5)",
+      "website": "http://www.oracle.com",
+      "startDate": "2010-01-10",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "EEE – Elite Engineering Exchange member, responsible for leading the technology development and information distribution to the rest of the hardware and software Oracle community.",
+        "US West Coast team lead and founding member of the NACH CIS Storage Group – Post Merger.",
+        "Large Enterprise Named Account Coverage and lead technical resource for Apple, Qualcomm, eBay, PayPal, Intel",
+        "Mentor to new Sales Representatives and Sales Consultants.",
+        "Responsible for Architecting and deploying Oracle’s largest ZFS customer environment worldwide.",
+        "Pre-sales Architecture, live customer training/coaching, Post Sale Installation and Support Intervention.",
+        "Direct liaison between a very large customer install base environments and Solaris / ZFS Engineering.",
+        "Help drive innovation into Storage Product lines by connecting engineering with other vendors like Silver Peak and Mellanox as well as partnering with other product lines within Oracle to create comprehensive solutions.",
+        "Instructor and content provider for the internally created ZFS Advanced Configuration and PoC class.",
+        "Deep understanding of ZFS, x86/64 bit Servers, M/T-Series Sparc Servers and SunOS - Solaris 11.",
+        "Create, expand and maintain deep technical customer relationships up to the C-Level while driving the sales cycle from the position of the trusted technical advisor.",
+        "Working with REST, Perl, Java Script and shell scripting to automate routine storage controller functions."
+      ]
+    },
+    {
+      "company": "Sun Microsystems / StorageTek, Inc.",
+      "position": "Systems Architect",
+      "website": "http://www.sun.com",
+      "startDate": "2003-08",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Named Account Coverage: Lead technical resource for eBay, Yahoo, Google, Marvell, i365, Electronic Arts, Shutterfly, Oracle, Flextronics, Fujitsu Microelectronics, Hitachi America, Ltd., Hitachi Data Systems, and Solectron.",
+        "Local expert for Amber Road (SS7000 Series) disk systems.",
+        "Deep understanding of ZFS, Sun Cluster, X64 Servers, T-Series Sparc Servers and Solaris.",
+        "Lead Presales efforts and ensure deliverables are completed on time.",
+        "Create and maintain technical customer relationships.",
+        "Drive the sales cycle from the position of the trusted technical advisor.",
+        "Train and mentor both customers and colleagues.",
+        "Be an active member of engineering steering committees to help improve and stabilize our products.",
+        "Support multi-vendor partnerships in order to provide comprehensive solutions to customers.",
+        "Develop and deliver NDA Product Roadmaps and Presentations to customers and colleagues.",
+        "Bridge the gap between Sales and Service by involving and working closely with the Customer Services organization to help resolve difficult/sensitive Technical Support issues.",
+        "Appointed by Vice President of Western US Sales to handle and clean up difficult customer situations.",
+        "Architect Disk based solutions for RFP’s from the LUN up to the Application.",
+        "Architect Tape based solutions for RFP’s from the drive to the ISV Application to the client.",
+        "Create and maintain Visio diagrams for all current and potential projects.",
+        "Deep understanding of Information Lifecycle Management solutions including SAMFS/QFS.",
+        "Deep understanding of ST9985, ST9985V, ST9990 and ST9990V enterprise disk solutions.",
+        "Expert level knowledge of Sun modular disk solutions (ST2000 and ST6000 Series).",
+        "Expert level knowledge of SL8500, SL3000, SL500, L5500, 9310, L180/L700 and L20/40/80.",
+        "Expert level knowledge of ACSLS controlled libraries and of LTO, DLT/SDLT, T9840A/B/C/D, T9940A/B, T10000 and competitors drive technology.",
+        "Augment and lead the Professional Services team during Storage Installs/Assessments.",
+        "Provide detailed analysis of captured data from the perspective of a Backup Administrator.",
+        "Assist Partner/Channel Operations and ensure proper resources are available when required.",
+        "Develop and deliver onsite partner training for advanced Sun Systems products."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "DeVry Institute of Technology, Phoenix, AZ",
+      "area": "Electronic Engineering Technology",
+      "studyType": "Bachelor of Science, Cum Laude, Dean's List",
+      "startDate": "1994-10",
+      "endDate": "1997-11",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Accomplishments and Awards",
+      "level": "",
+      "keywords": [
+        "10 year service award at Oracle Corporation",
+        "Promoted from Principal Sales Engineer to Master Principal Sales Engineer",
+        "FY12Q3 SC of the Quarter for North America",
+        "FY12 Largest Total Customer Win Globally – Apple Team - ~$100M",
+        "2012 Oracle Club Excellence",
+        "5 year service award at SUN Microsystems",
+        "Promoted from Senior Systems Engineer to Systems Architect at SUN Microsystems",
+        "2004 StorageTek Outstanding Employee Recognition Award",
+        "2004 StorageTek Achievers Club",
+        "Numerous SUN, StorageTek, HDS, EMC, LSI Logic, Veritas / Symantec, Brocade, McData and Oracle certifications"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Sports Cars, Golfing, watching hockey, coaching youth baseball, umpiring youth baseball, snorkeling, scuba diving, cycling, fishing, camping, paintball, racing/building remote control cars, and miscellaneous electronics related projects.",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "Public Profile",
+      "reference": "http://www.linkedin.com/in/miketriska"
+    }
+  ]
+}
